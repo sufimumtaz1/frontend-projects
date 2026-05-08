@@ -1,6 +1,6 @@
-# frontend-projects
+# Frontend Projects
 
-# Frontend Projects  Hi, I am a beginner full stack web developer learning frontend development, UI design and web tools.  Currently building: - Responsive landing pages - UI components - Small web utilities - Experimental frontend layouts  I mainly develop and test projects on mobile while learning modern web development.
+Beginner frontend development and UI experiment repository.
 
 ## Tech Stack
 - HTML5
@@ -8,7 +8,10 @@
 - JavaScript
 
 ## Features
-- Responsive layout
-- UI cards
-- Simple project showcase
+- Responsive layouts
+- UI components
 - Mobile-friendly design
+- Frontend experiments
+
+## Goal
+Learning modern frontend development and building small web projects.
